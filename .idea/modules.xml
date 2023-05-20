@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cursonelio.iml" filepath="$PROJECT_DIR$/Cursonelio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exerc_Enum1/Exerc_Enum1.iml" filepath="$PROJECT_DIR$/Exerc_Enum1/Exerc_Enum1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course/course.iml" filepath="$PROJECT_DIR$/course/course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course2/course2.iml" filepath="$PROJECT_DIR$/course2/course2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entrada_de_dados_1/entrada_de_dados_1.iml" filepath="$PROJECT_DIR$/entrada_de_dados_1/entrada_de_dados_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura_condicional/estrutura_condicional.iml" filepath="$PROJECT_DIR$/estrutura_condicional/estrutura_condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturas_repetitivas/estruturas_repetitivas.iml" filepath="$PROJECT_DIR$/estruturas_repetitivas/estruturas_repetitivas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturas_repetitivas1/estruturas_repetitivas1.iml" filepath="$PROJECT_DIR$/estruturas_repetitivas1/estruturas_repetitivas1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemploVetores1/exemploVetores1.iml" filepath="$PROJECT_DIR$/exemploVetores1/exemploVetores1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemploVetores2/exemploVetores2.iml" filepath="$PROJECT_DIR$/exemploVetores2/exemploVetores2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplo_DateTime2/exemplo_DateTime2.iml" filepath="$PROJECT_DIR$/exemplo_DateTime2/exemplo_DateTime2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplo_construtores/exemplo_construtores.iml" filepath="$PROJECT_DIR$/exemplo_construtores/exemplo_construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplo_lista/exemplo_lista.iml" filepath="$PROJECT_DIR$/exemplo_lista/exemplo_lista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplos_DateTime/exemplos_DateTime.iml" filepath="$PROJECT_DIR$/exemplos_DateTime/exemplos_DateTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc_mat2/exerc_mat2.iml" filepath="$PROJECT_DIR$/exerc_mat2/exerc_mat2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc_matrizes/exerc_matrizes.iml" filepath="$PROJECT_DIR$/exerc_matrizes/exerc_matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc_vect_alturas/exerc_vect_alturas.iml" filepath="$PROJECT_DIR$/exerc_vect_alturas/exerc_vect_alturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc_vect_soma_vetor/exerc_vect_soma_vetor.iml" filepath="$PROJECT_DIR$/exerc_vect_soma_vetor/exerc_vect_soma_vetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerc_vet_negativos/exerc_vet_negativos.iml" filepath="$PROJECT_DIR$/exerc_vet_negativos/exerc_vet_negativos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_fixacao/exercicio_fixacao.iml" filepath="$PROJECT_DIR$/exercicio_fixacao/exercicio_fixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_listas/exercicio_listas.iml" filepath="$PROJECT_DIR$/exercicio_listas/exercicio_listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios_estrutura_sequencial/exercicios_estrutura_sequencial.iml" filepath="$PROJECT_DIR$/exercicios_estrutura_sequencial/exercicios_estrutura_sequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/funcoes_matematicas/funcoes_matematicas.iml" filepath="$PROJECT_DIR$/funcoes_matematicas/funcoes_matematicas.iml" />
+    </modules>
+  </component>
+</project>
