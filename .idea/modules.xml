@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/exercicio_listas/exercicio_listas.iml" filepath="$PROJECT_DIR$/exercicio_listas/exercicio_listas.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios_estrutura_sequencial/exercicios_estrutura_sequencial.iml" filepath="$PROJECT_DIR$/exercicios_estrutura_sequencial/exercicios_estrutura_sequencial.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcoes_matematicas/funcoes_matematicas.iml" filepath="$PROJECT_DIR$/funcoes_matematicas/funcoes_matematicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herancaepolimorfismo1/herancaepolimorfismo1.iml" filepath="$PROJECT_DIR$/herancaepolimorfismo1/herancaepolimorfismo1.iml" />
     </modules>
   </component>
 </project>
