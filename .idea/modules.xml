@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/estruturas_repetitivas/estruturas_repetitivas.iml" filepath="$PROJECT_DIR$/estruturas_repetitivas/estruturas_repetitivas.iml" />
       <module fileurl="file://$PROJECT_DIR$/estruturas_repetitivas1/estruturas_repetitivas1.iml" filepath="$PROJECT_DIR$/estruturas_repetitivas1/estruturas_repetitivas1.iml" />
       <module fileurl="file://$PROJECT_DIR$/exceptions1/exceptions1.iml" filepath="$PROJECT_DIR$/exceptions1/exceptions1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemploInterfaces/exemploInterfaces.iml" filepath="$PROJECT_DIR$/exemploInterfaces/exemploInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/exemploVetores1/exemploVetores1.iml" filepath="$PROJECT_DIR$/exemploVetores1/exemploVetores1.iml" />
       <module fileurl="file://$PROJECT_DIR$/exemploVetores2/exemploVetores2.iml" filepath="$PROJECT_DIR$/exemploVetores2/exemploVetores2.iml" />
       <module fileurl="file://$PROJECT_DIR$/exemplo_DateTime2/exemplo_DateTime2.iml" filepath="$PROJECT_DIR$/exemplo_DateTime2/exemplo_DateTime2.iml" />
@@ -31,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/exercicios_estrutura_sequencial/exercicios_estrutura_sequencial.iml" filepath="$PROJECT_DIR$/exercicios_estrutura_sequencial/exercicios_estrutura_sequencial.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcoes_matematicas/funcoes_matematicas.iml" filepath="$PROJECT_DIR$/funcoes_matematicas/funcoes_matematicas.iml" />
       <module fileurl="file://$PROJECT_DIR$/herancaepolimorfismo1/herancaepolimorfismo1.iml" filepath="$PROJECT_DIR$/herancaepolimorfismo1/herancaepolimorfismo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manip_arquivos/manip_arquivos.iml" filepath="$PROJECT_DIR$/manip_arquivos/manip_arquivos.iml" />
     </modules>
   </component>
 </project>

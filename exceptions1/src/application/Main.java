@@ -15,7 +15,7 @@ public class Main {
         System.out.print("Number: ");
         int number = sc.nextInt();
         System.out.print("Holder: ");
-        sc.nextLine();
+        sc.nextLine();      
         String name = sc.nextLine();
         System.out.print("Initial balance: ");
         double balance = sc.nextDouble();
