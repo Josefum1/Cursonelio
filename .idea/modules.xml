@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Cursonelio.iml" filepath="$PROJECT_DIR$/Cursonelio.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExemploEnum2/ExemploEnum2.iml" filepath="$PROJECT_DIR$/ExemploEnum2/ExemploEnum2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploEqualsEHash/ExemploEqualsEHash.iml" filepath="$PROJECT_DIR$/ExemploEqualsEHash/ExemploEqualsEHash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploGenerics1/ExemploGenerics1.iml" filepath="$PROJECT_DIR$/ExemploGenerics1/ExemploGenerics1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exerc_Enum1/Exerc_Enum1.iml" filepath="$PROJECT_DIR$/Exerc_Enum1/Exerc_Enum1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exerc_HerancaPolimorfismo/Exerc_HerancaPolimorfismo.iml" filepath="$PROJECT_DIR$/Exerc_HerancaPolimorfismo/Exerc_HerancaPolimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercicioEnum3/ExercicioEnum3.iml" filepath="$PROJECT_DIR$/ExercicioEnum3/ExercicioEnum3.iml" />
